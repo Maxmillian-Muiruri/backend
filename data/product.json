@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "1",
+    "name": "Samsung Galaxy S21 Ultra 5G",
+    "price": "1199.99",
+    "description": "Introducing the Galaxy S21 Ultra 5G. Designed with a unique contour-cut camera to create a revolution in photography — letting you capture cinematic 8K video and snap epic stills, all in one go. And with Galaxy's fastest chipset, strongest glass, 5G, and an all-day battery, Ultra easily lives up to its name.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "products/samsung_galaxy_s21_ultra",
+        "url": "https://res.cloudinary.com/bookit/image/upload/v1623984221/products/samsung_galaxy_s21_ultra.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Samsung",
+    "stock": 15,
+    "numOfReviews": 245,
+    "reviews": []
+  },
+  {
+    "id": "2",
+    "name": "Sony PlayStation 5 Console",
+    "price": "499.99",
+    "description": "Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "public_id": "products/sony_playstation_5",
+        "url": "https://res.cloudinary.com/bookit/image/upload/v1623984221/products/sony_playstation_5.jpg"
+      }
+    ],
+    "category": "Gaming",
+    "seller": "Sony",
+    "stock": 5,
+    "numOfReviews": 1023,
+    "reviews": []
+  },
+  {
+    "id": "3",
+    "name": "Canon EOS R5 Full-Frame Mirrorless Camera",
+    "price": "3899.00",
+    "description": "The Canon EOS R5 gives you uncompromising image quality, high-speed performance, and video capabilities, all wrapped in a compact form. With 45 megapixels of resolution, fast 20fps shooting, 8K RAW video recording, and advanced Dual Pixel CMOS AF II, the EOS R5 redefines what mirrorless is capable of.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "public_id": "products/canon_eos_r5",
+        "url": "https://res.cloudinary.com/bookit/image/upload/v1623984221/products/canon_eos_r5.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Canon",
+    "stock": 3,
+    "numOfReviews": 187,
+    "reviews": []
+  },
+  {
+    "id": "4",
+    "name": "LG OLED65CXPUA Alexa Built-In CX 65-Inch 4K Smart OLED TV",
+    "price": "1999.99",
+    "description": "LG OLED TV: Only OLED pixels emit their own light, allowing for perfect black, intense color, and stunning picture. PIXEL LEVEL DIMMING: Millions of pixels emit their own light. Only OLED can turn pixels off completely and independently. AI-POWERED 4K: Intense Color, Realistic Picture, OLED's refined detail, and cinematic color on the perfect black backdrop.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "public_id": "products/lg_oled_tv",
+        "url": "https://res.cloudinary.com/bookit/image/upload/v1623984221/products/lg_oled_tv.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "LG",
+    "stock": 8,
+    "numOfReviews": 432,
+    "reviews": []
+  },
+  {
+    "id": "5",
+    "name": "Breville BES870XL Barista Express Espresso Machine",
+    "price": "599.95",
+    "description": "The Breville Barista Express delivers third wave specialty coffee at home using the 4 keys formula and is part of the Barista Series that offers all in one espresso machines with integrated grinder to go from beans to espresso in under one minute.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "public_id": "products/breville_espresso_machine",
+        "url": "https://res.cloudinary.com/bookit/image/upload/v1623984221/products/breville_espresso_machine.jpg"
+      }
+    ],
+    "category": "Kitchen Appliances",
+    "seller": "Breville",
+    "stock": 10,
+    "numOfReviews": 554,
+    "reviews": []
+  }
+]
